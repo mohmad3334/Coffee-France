@@ -1,0 +1,44 @@
+[
+    {
+        "image":"pictures/breve.jpg",
+        "name":"Breve",
+        "description":"Rich and bold espresso made from freshly ground beans.",
+        "price":"$3.00",
+        "alt":"Breve Coffee"
+    },
+    {
+        "image":"pictures/Cappuccino.jpg",
+        "name":"Cappuccino",
+        "description":"Espresso cut with a small amount of warm milk to reduce acidity.",
+        "price":"$4.00",
+        "alt":"Cappuccino Coffee"
+    },
+    {
+        "image":"pictures/lattes.jpg",
+        "name":"latte",
+        "description":"A classic coffee drink made with espresso and steamed milk.",
+        "price":"$5.00",
+        "alt":"Latte Coffee"
+    },
+    {
+        "image":"pictures/Cold-Beverages.jpg",
+        "name":"Cold Beverages",
+        "description":"A coffee drink made with espresso, steamed milk, and foam.",
+        "price":"$4.50",
+        "alt":"Cold Beverages Coffee"
+    },
+    {
+        "image":"pictures/mocha.jpg",
+        "name":"mocha",
+        "description":"A chocolate-flavored variant of a latte.",
+        "price":"$6.00",
+        "alt":"Mocha Coffee"
+    },
+    {
+        "image":"pictures/ice-coffee.jpg",
+        "name":"Ice Coffee",
+        "description":"Chilled coffee served over ice, often sweetened or flavored.",
+        "price":"$3.50",
+        "alt":"Ice Coffee"
+    }
+]

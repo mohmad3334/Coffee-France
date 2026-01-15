@@ -1,0 +1,39 @@
+[
+    {
+        "photo":"pictures/AMIRA.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Amira",
+        "alt":"Amira Coffee"
+    },
+    {
+        "photo":"pictures/LAILA.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Laila",
+        "alt":"Laila Coffee"
+    }
+    ,
+    {
+        "photo":"pictures/MOHAMED.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Mohamed",
+        "alt":"Mohamed Coffee"
+    },
+    {
+        "photo":"pictures/NORDIN.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Nordin",
+        "alt":"Nordin Coffee"
+    },
+    {
+        "photo":"pictures/TATBIRT.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Tatbirt",
+        "alt":"Tatbirt Coffee"
+    }
+    ,{
+        "photo":"pictures/YASSIN.jpg",
+        "comment":"The best coffee I've ever had! The ambiance is perfect for relaxing or working.",
+        "name":"Yassin",
+        "alt":"Yassin Coffee"
+    }
+]
