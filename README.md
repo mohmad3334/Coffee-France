@@ -1,6 +1,5 @@
 ## 📸 Screenshots
-![](my-project/pictures/Home.png)
-
+![](docs/pictures/Home.png)
 # Cafe France ☕
 
 A modern and responsive coffee shop website built with HTML, CSS, Tailwind CSS, and JavaScript.
