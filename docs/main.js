@@ -6,7 +6,7 @@ fetch('./menu.json')
             const card = document.createElement('div')
             card.classList.add( 'card','h-max', 'w-64', 'bg-amber-50', 'rounded-xl', 'overflow-hidden', 'p-1.5', 'flex', 'flex-col', 'items-center', 'justify-start', 'gap-4', 'text-amber-950', 'shadow-lg' );
             card.innerHTML = `
-                <img src="${item.image}" alt="${item.alt}" class="w-max h-max rounded-xl" loading="lazy" />
+                <img width="400" height="300" src="${item.image}" alt="${item.alt}" class="w-max h-max rounded-xl" loading="lazy" />
                 <h3 class="font-bold text-[15px] uppercase">${item.name}</h3>
                 <p class="text-center text-[15px] font-medium">${item.description}</p>
                 <span class="font-bold">${item.price}</span>
@@ -25,7 +25,7 @@ fetch('./client.json')
 
             slide.innerHTML = `
         <div class="h-72 w-full bg-amber-700 flex flex-col items-center justify-between p-6 text-white rounded-xl shadow-lg">
-        <img src="${info.photo}" alt="${info.alt}" class="w-28 h-28 rounded-full object-cover mt-2" loading="lazy">
+        <img width="400" height="300" src="${info.photo}" alt="${info.alt}" class="w-28 h-28 rounded-full object-cover mt-2" loading="lazy">
         <p class="text-center text-sm">
             "${info.comment}"
         </p>
